@@ -1,4 +1,4 @@
-# shadowDimension
+# Shadow Dimension
 
 A 2D fighting game with between Fae and Demons, themes influenced by the Netflix show Stranger Things
 
