@@ -1,6 +1,6 @@
 # Shadow Dimension
 
-A 2D fighting game with between Fae and Demons, themes influenced by the Netflix show Stranger Things
+A 2D fantasy fighting game with between Fae and Demons, themes influenced by the Netflix show Stranger Things
 
 _A dark evil has arrived in your hometown. A group of government scientists have opened a gate in
 their laboratory to another dimension called the Over Under. The Over Under is ruled by Navec
